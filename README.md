@@ -1,4 +1,4 @@
-# Agriaid - Crop Management System
+# Agriaid - ML based Farmers Management System
 
 Agriaid is a comprehensive Crop Management System designed to assist farmers with data-driven insights and predictions. It leverages machine learning models and web technologies to provide crop prediction, fertilizer recommendation, rainfall prediction, and yield forecasting.
 
