@@ -1,0 +1,5 @@
+myenv
+venv
+AgriAid/env
+__pycache__/
+*.pyc
